@@ -1,1 +1,6 @@
-Feeble attempts to teach myself JavaScript using JavaScript: Visual QuickStart Guide (8th Edition).
+Feeble attempts to teach myself JavaScript.
+
+Title: JavaScript: Visual QuickStart Guide
+Authors: Tom Negrino, Dori Smith
+Edition: 8th
+ISBN: 0321772970
